@@ -10,6 +10,7 @@ I love :pizza:
 "Added Hero Comp, UppercasePipe to format name, Added FormsModule and two way binding"
 
 2-DisplayList
+"set up displays list in Master-Detail using *ngFor, and  *ngIf to conditionally include code"
 
 3-Components
 
