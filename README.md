@@ -7,6 +7,7 @@ I love :pizza:
 0-shell
 
 1-HeroEditor
+"Added Hero Comp, UppercasePipe to format name, Added FormsModule and two way binding"
 
 2-DisplayList
 
@@ -18,7 +19,7 @@ I love :pizza:
 
 6-HttpClient
 
-# Michael's Steps to Git and GitHub #
+### Michael's Steps to Git and GitHub
 
 **git checkout -b *feature1***
 
