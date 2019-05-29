@@ -13,6 +13,7 @@ I love :pizza:
 "set up displays list in Master-Detail using *ngFor, and  *ngIf to conditionally include code"
 
 3-Components
+"Created a separate reusable HeroDetailComp. Added property binding to give parent HeroesComp control over child HeroDetailComp"
 
 4-Services
 
